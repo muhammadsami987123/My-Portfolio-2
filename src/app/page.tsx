@@ -1,10 +1,8 @@
 "use client";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-import Heor from "@/components/Hero";
 import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
-import Image from "next/image";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
 import React, { useEffect } from "react";
