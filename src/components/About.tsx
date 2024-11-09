@@ -1,4 +1,3 @@
-
 const About = () => {
   return (
     <div id='about' className='container pt-32' data-aos="fade-up" >
