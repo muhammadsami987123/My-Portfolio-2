@@ -5,7 +5,7 @@
 Welcome to my personal portfolio website! This site showcases my skills, projects, and professional journey in web development, with a focus on Cloud-Enabled Generative AI, Web3, and front-end development. 
 
 ### Live Demo
-Check out the live site here: [Your Portfolio Link](https://yourportfoliolink.com)
+Check out the live site here: https://my-portfolio-2-lake.vercel.app/
 
 ---
 
